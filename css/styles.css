@@ -1,0 +1,195 @@
+#title {
+  background-color: #ff4c68;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+
+}
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 900;
+  font-size: 2rem;
+  line-height: 1.5;
+  color: white;
+  margin-bottom: 0;
+  text-shadow: -1px 0.5px grey;
+}
+
+h2 {
+  padding: 0 20% 3%;
+}
+
+
+.navbar-brand {
+  font-family: 'Ubuntu';
+  font-size: 2rem;
+  font-weight: bold;
+  color: #ff4c68;
+  text-shadow: -1px 0.5px grey;
+}
+
+a:hover {
+  color: #ff4c68;
+}
+
+.nav-link {
+  text-shadow: none;
+}
+
+.fa-quote-left {
+  position: relative;
+  right: 40px;
+}
+
+.fa-quote-right {
+  float: right;
+}
+
+.container-fluid {
+  padding: 3% 15%;
+}
+
+.button-main {
+  margin: 0.5% 4% 0.5% 0;
+  ;
+}
+
+.itamar-img {
+  filter: drop-shadow(-1px 2px grey);
+}
+
+
+/* features Section */
+
+#features {
+  padding: 7% 15%;
+  background-color: white;
+}
+.features-icons {
+  color: #ef8172;
+}
+span {
+  padding-bottom: 5%;
+}
+span:hover {
+  color: #ff4c68;
+}
+
+h3 {
+  font-weight: bold;
+  font-size: 1.5rem;
+
+}
+
+.features-paragraph {
+color: #8f8f8f;
+font-size: 0.75rem;
+padding-top: 3%;
+padding-bottom: 10%;
+}
+
+/* Wine from the world */
+
+#wine-from-the-world {
+  text-align: center;
+  background-color: #ef8172;
+  color: #fff;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 900;
+  font-size: 1rem;
+  line-height: 1.5;
+text-shadow: -1px 0.5px grey;
+}
+
+.barbaresco {
+  width: 12rem;
+}
+
+.carousel-item {
+    padding: 7% 15%;
+}
+/* Press and Logos */
+
+#press {
+  background-color: #ef8172;
+  border-top: solid white;
+  text-align: center;
+  padding:2% 10% 4%;
+}
+
+
+.logos {
+  width: 6rem;
+  border-color: #ff4c68;
+  filter: drop-shadow(-1px 1px grey);
+margin: 1% 5% 0;
+}
+
+
+/* Pricing Section */
+
+#pricing {
+  padding: 100px 100px 0;
+  text-align: center;
+}
+
+.wine-set-title {
+  padding: 0;
+  color: #ff4c68;
+  font-weight: 900;
+  filter: drop-shadow(-1px 1px grey);
+}
+
+.wine-set-par {
+  color: #8f8f8f;
+}
+.wine-set {
+  text-align: center;
+  padding: 5% 2%;
+
+}
+
+.third-plan{
+  background-color: #FFF47D;
+}
+
+/* CTA Section */
+
+#cta {
+  background-color: #ff4c68;
+  text-align: center;
+  padding: 50px 0 60px;
+  color: #fff;
+  font-weight: bold;
+}
+
+.bottom-button {
+  margin: 2% 1%;
+}
+
+.bottom-h3 {
+  line-height: 1.5;
+text-shadow: -1px 0.5px grey;
+}
+/* Footer Section */
+
+#footer {
+  text-align: center;
+  background-color: #fff;
+  padding: 20px 0 10px;
+}
+.footer-icon {
+  padding: 1%;
+}
+.copyright {
+  font-size: 0.5rem;
+  color: grey;
+  font-weight: 500;
+  text-shadow: -1px 0.2px #F3F1F5;
+}
+
+a {
+  color: inherit;
+}
